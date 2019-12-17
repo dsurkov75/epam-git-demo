@@ -1,1 +1,2 @@
-Вместе весело шагать
+This is the first line of song
+This is the second line of song
