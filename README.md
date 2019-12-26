@@ -1,4 +1,4 @@
 # epam-git-demo
 EPAM Course - VERSION CONTROL WITH GIT
 
-Some Content
+Hello this is readme!
