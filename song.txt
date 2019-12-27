@@ -3,8 +3,7 @@ This is the Second line of song
 
 3d line
 
-Ground control to major Tom
-Ground control to major Bob
+
 
 Hello New Feature
 Hello New Feature one more time
