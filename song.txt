@@ -6,6 +6,3 @@ This is the Second line of song
 Ground control to major Tom
 Ground control to major Bob
 
-Hello New Feature
-Hello New Feature one more time
-Hello New Feature one more time again
